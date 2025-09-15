@@ -13,5 +13,5 @@ public partial class Componente
 
     public DateOnly? FechaBaja { get; set; }
 
-    public string MotivoBaja { get; set; }
+    public string? MotivoBaja { get; set; }
 }

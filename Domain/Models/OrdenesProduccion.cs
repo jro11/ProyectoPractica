@@ -16,4 +16,6 @@ public partial class OrdenesProduccion
     public string Estado { get; set; }
 
     public int Cantidad { get; set; }
+
+    public ICollection<DetallesOrden> Detalles { get; set; } = new List<DetallesOrden>();
 }

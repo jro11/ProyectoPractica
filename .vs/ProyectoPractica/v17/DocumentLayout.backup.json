@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:data\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\data\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:data\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\domain\\models\\ordenesproduccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:domain\\models\\ordenesproduccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\services\\componentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:services\\componentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\data\\repositories\\componentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:data\\repositories\\componentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\controllers\\componentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:controllers\\componentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\domain\\models\\componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:domain\\models\\componente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\services\\icomponentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:services\\icomponentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|c:\\users\\jerog\\desktop\\proyectopractica\\data\\interfaces\\icomponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCDB6F0E-39F6-4994-9E78-61A146261313}|ProyectoPractica.csproj|solutionrelative:data\\interfaces\\icomponentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +62,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T16:46:46.324Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
@@ -36,6 +71,173 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Data\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Data\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:53:31.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Data\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wCYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:55:43.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdenesProduccion.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Domain\\Models\\OrdenesProduccion.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\OrdenesProduccion.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Domain\\Models\\OrdenesProduccion.cs",
+              "RelativeToolTip": "Domain\\Models\\OrdenesProduccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:53:48.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Services\\IOrderService.cs",
+              "RelativeToolTip": "Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:52:36.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:03:26.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwF8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:05:25.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:46:46.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ComponentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Data\\Repositories\\ComponentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\ComponentRepository.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Data\\Repositories\\ComponentRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\ComponentRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:55:31.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ComponentService.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Services\\ComponentService.cs",
+              "RelativeDocumentMoniker": "Services\\ComponentService.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Services\\ComponentService.cs",
+              "RelativeToolTip": "Services\\ComponentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:06:26.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IComponentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Data\\Interfaces\\IComponentRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interfaces\\IComponentRepository.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Data\\Interfaces\\IComponentRepository.cs",
+              "RelativeToolTip": "Data\\Interfaces\\IComponentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:53:17.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComponentController.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Controllers\\ComponentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ComponentController.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Controllers\\ComponentController.cs",
+              "RelativeToolTip": "Controllers\\ComponentController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwGoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:09:26.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Componente.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Domain\\Models\\Componente.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Componente.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Domain\\Models\\Componente.cs",
+              "RelativeToolTip": "Domain\\Models\\Componente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:30:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IComponentService.cs",
+              "DocumentMoniker": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Services\\IComponentService.cs",
+              "RelativeDocumentMoniker": "Services\\IComponentService.cs",
+              "ToolTip": "C:\\Users\\jerog\\Desktop\\ProyectoPractica\\Services\\IComponentService.cs",
+              "RelativeToolTip": "Services\\IComponentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:52:22.116Z"
             }
           ]
         }
